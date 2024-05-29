@@ -16,7 +16,6 @@ JavaScript: For fetching weather data from the API and updating the UI dynamical
 ![Weather](weatherapp.png)
 
 How to Use:
-
 Clone the repository: git clone https://github.com/yourusername/weather-app.git
 Navigate to the project directory: cd weather-app
 Open index.html in your browser.

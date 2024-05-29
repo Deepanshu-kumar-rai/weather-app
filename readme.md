@@ -13,8 +13,7 @@ HTML: For structuring the web page.
 CSS: For styling the application and creating a responsive design.
 JavaScript: For fetching weather data from the API and updating the UI dynamically.
 
-![Enter city](weatherapp.png)
-![Weather](weatherapp.png)
+
 
 How to Use:
 Clone the repository: git clone https://github.com/yourusername/weather-app.git

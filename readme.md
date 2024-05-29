@@ -7,7 +7,8 @@ Real-time Weather Data: Get up-to-date weather information for any city.
 Search Functionality: Easily search for the weather by entering a city name.
 Dynamic UI: A responsive and visually appealing user interface that adapts to different screen sizes.
 Error Handling: User-friendly messages for invalid city names or network issues.
-Technologies Used
+
+Technologies Used:
 HTML: For structuring the web page.
 CSS: For styling the application and creating a responsive design.
 JavaScript: For fetching weather data from the API and updating the UI dynamically.
